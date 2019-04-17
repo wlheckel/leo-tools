@@ -1,0 +1,23 @@
+{
+  "name": "leo-tools",
+  "version": "0.0.1",
+  "description": "前端常用的工具",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlheckel/leo-tools.git"
+  },
+  "keywords": [
+    "front",
+    "tools"
+  ],
+  "author": "https://github.com/wlheckel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wlheckel/leo-tools/issues"
+  },
+  "homepage": "https://github.com/wlheckel/leo-tools#readme"
+}
