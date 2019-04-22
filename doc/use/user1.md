@@ -2,4 +2,6 @@
 
 这里是用户使用文档1cd
 
-commit message
+commit message 
+
+git push
